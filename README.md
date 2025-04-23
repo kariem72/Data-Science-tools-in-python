@@ -23,9 +23,3 @@ These notebooks are built for:
 - Anyone looking for clean, well-documented code examples 🔍  
 
 ---
-
-## ✅ How to Use
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
